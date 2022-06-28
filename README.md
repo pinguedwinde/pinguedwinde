@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinguedwinde
 - 👀 I’m interested in Software Computing (Web Development, Serverless Computing, Cloud Computing, Big Data)
-- 🌱 I’m currently learning Web Design and Development
+- 🌱 I’m currently learning Web Design and Development with OOP and Functional Programming Paradigm using Scala , Java and JavaScript Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
